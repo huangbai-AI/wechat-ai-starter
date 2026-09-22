@@ -1,0 +1,17 @@
+{
+  "说明": "仅供对照字段。初次使用请在中文面板填写，不要将此示例覆盖到 runtime。所有示例值都不能用于真实连接。",
+  "scene": "private",
+  "bot_name": "小白",
+  "app_id": "替换成微信终端appId",
+  "self_wxid": "点击读取机器人身份取得",
+  "wechat_base": "https://newmanager.wechatapi.net/finder/v2/api",
+  "wechat_token": "替换成你自己的微信通道密钥",
+  "allowed_contacts": "替换成测试好友内部wxid",
+  "allowed_groups": "替换成实际群编号@chatroom",
+  "ai_base": "https://model.example.com/v1",
+  "ai_model": "替换成模型ID",
+  "ai_key": "替换成你自己的大模型密钥",
+  "ai_options": {},
+  "api_json_mode": false,
+  "prompt": "你是小白，简洁、有判断；不知道就直说，只输出最终答复。"
+}
